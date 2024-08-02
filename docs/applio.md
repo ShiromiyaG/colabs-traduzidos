@@ -17,7 +17,7 @@ Vá na aba baixar e coloque o link do modelo, e clique em **Baixar Modelo**
 
 ## Passo 3 - Selecionar a voz
 
-Volte para aba Infeerencia, clique em **"Atualizar"**, solte o arquivo de audio e clique em **Converter**
+Volte para aba Inferência, clique em **"Atualizar"**, solte o arquivo de audio e clique em **Converter**
 
 ![image-4](https://github.com/user-attachments/assets/151fc317-40d6-46b9-8c8e-3ccf43e9ad62)
 
